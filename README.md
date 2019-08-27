@@ -1,4 +1,7 @@
-gachon mythx project to docker build
+# gachon mythx project to docker build
 
-usage:
-  sudo docker build -t <image-name> .
+<h2>USAGE</h2>
+
+```bash
+$ sudo docker build -t <image-name> .
+```
